@@ -1,2 +1,2 @@
 # Modern Dashboard
-## Only html & css
+## tailwind css practice
